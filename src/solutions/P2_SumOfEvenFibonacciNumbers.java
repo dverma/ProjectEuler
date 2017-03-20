@@ -24,6 +24,16 @@ public class P2_SumOfEvenFibonacciNumbers
         int t = in.nextInt();
         for(int a0 = 0; a0 < t; a0++){
             long n = in.nextLong();
+            System.out.println(sum(n));
         }
     }
+	
+	static long sum(long n)
+	{
+		long sum = 0;
+		
+		
+		
+		return sum;
+	}
 }

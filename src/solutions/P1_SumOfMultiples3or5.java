@@ -11,11 +11,8 @@ import java.util.Scanner;
  * Find the sum of all the multiples of 3 or 5 for n
  *
  */
-public class P1_SumOfMultiplesOf3AND5
+public class P1_SumOfMultiples3or5
 {
-	/*
-
-	 */
 	public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int t = in.nextInt();
